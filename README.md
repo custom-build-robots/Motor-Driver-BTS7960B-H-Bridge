@@ -4,7 +4,7 @@ This is a Python program to control two BTS7960B H-Bridge. I developed this Pyth
 ![motor dirver BTS7960B](https://custom-build-robots.com/wp-content/uploads/2017/01/Custom-Build-Robots-Big-Rob.11-768x576.jpg)
 
 ##
-To test the Python program "" use the RobotControl.py program from my repository https://github.com/custom-build-robots/Motor-Driver-L298N.
+To test the Python program "BTS7960BHBridge.py" use the "RobotControl.py" program from my repository https://github.com/custom-build-robots/Motor-Driver-L298N.
 
 ## Project Homepage
 This is my project homepage which describes how to build the Big Rob robot and how to use the python program to control the BTS7960B H-Bridge:
