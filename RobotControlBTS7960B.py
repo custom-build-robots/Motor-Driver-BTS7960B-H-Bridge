@@ -14,7 +14,7 @@ import sys, tty, termios, os, readchar
 
 # Das Programm L298NHBridge.py wird als Modul geladen. Es stellt
 # die Funktionen fuer die Steuerung der H-Bruecke zur Verfuegung.
-import L298NHBigrob as HBridge
+import BTS7960BHBridge as HBridge
 
 # Variablen Definition der linken und rechten Geschwindigkeit der
 # Motoren des Roboter-Autos.
