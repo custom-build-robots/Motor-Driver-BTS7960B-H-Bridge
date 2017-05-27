@@ -1,5 +1,7 @@
 # Motor-Driver-BTS7960B
-This is a Python program to control two BTS7960B H-Bridge. I developed this Python program for my Raspberry Pi robot BigRob which uses four DC motors and two BTS7960B H-Bridges
+This is a Python program to control two BTS7960B H-Bridge. I developed this Python program for my Raspberry Pi robot BigRob which uses four DC motors and two BTS7960B H-Bridges.
+
+![motor dirver BTS7960B](https://custom-build-robots.com/wp-content/uploads/2017/01/Custom-Build-Robots-Big-Rob.11-768x576.jpg)
 
 ## Project Homepage
 This is my project homepage which describes how to build the Big Rob robot and how to use the python program to control the BTS7960B H-Bridge:
